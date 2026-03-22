@@ -26,4 +26,4 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest --junitxml=test-results.xml
+          python -m pytest --junitxml=test-results.xml
