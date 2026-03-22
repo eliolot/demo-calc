@@ -45,4 +45,4 @@ jobs:
         run: python -m build
 
       - name: build executable
-        run: pyinstaller --onefile main.py
+        run: python -m pyinstaller --onefile main.py
