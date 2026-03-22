@@ -1,0 +1,10 @@
+pyproject.toml
+src/__init__.py
+src/calculator.py
+src/demo_calc.egg-info/PKG-INFO
+src/demo_calc.egg-info/SOURCES.txt
+src/demo_calc.egg-info/dependency_links.txt
+src/demo_calc.egg-info/requires.txt
+src/demo_calc.egg-info/top_level.txt
+tests/test_integration.py
+tests/test_unit.py
